@@ -14,3 +14,9 @@ var restoreString = function(s, indices) {
 
   return result;
 };
+
+/*
+Current Stats:
+Runtime: 100 ms, faster than 26.17% of JavaScript online submissions for Shuffle String.
+Memory Usage: 42.1 MB, less than 5.45% of JavaScript online submissions for Shuffle String.
+*/
