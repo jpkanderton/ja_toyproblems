@@ -7,3 +7,10 @@ var detectCycle = function(head) {
   }
   return null;
 };
+
+
+/*
+Stats:
+Runtime: 100 ms, faster than 23.58% of JavaScript online submissions for Linked List Cycle II.
+Memory Usage: 41.9 MB, less than 9.75% of JavaScript online submissions for Linked List Cycle II.
+*/
