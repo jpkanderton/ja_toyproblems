@@ -16,5 +16,5 @@ function capFirstLet(word, index) {
   return first.concat(rest);
 }
 
-var fileName = 'https://leetcode.com/problems/odd-even-linked-list/';
+var fileName = 'https://leetcode.com/problems/swapping-nodes-in-a-linked-list/submissions/'
 convertFileName(fileName);
