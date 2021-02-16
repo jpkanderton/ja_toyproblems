@@ -16,5 +16,5 @@ function capFirstLet(word, index) {
   return first.concat(rest);
 }
 
-var fileName = 'https://leetcode.com/problems/find-common-characters/'
+var fileName = 'https://leetcode.com/problems/search-in-a-binary-search-tree/'
 convertFileName(fileName);
